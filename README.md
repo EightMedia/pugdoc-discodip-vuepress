@@ -1,4 +1,4 @@
-# 🍲 Pug-doc + Discodip + Vuepress
+# 🍰 Pug-doc + Discodip + Vuepress
 recipe for a design system setup using pug-doc, discodip and vuepress
 
 `npm install pug-doc discodip vuepress gulp --save-dev`

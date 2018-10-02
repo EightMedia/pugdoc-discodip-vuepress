@@ -1,6 +1,6 @@
 module.exports = {
-  title: "🍲 ",
-  description: "🍲 ",
+  title: "🍰 ",
+  description: "🍰 ",
   head: [
     ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.0/iframeResizer.min.js' }],
     ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/10.14.0/lazyload.min.js' }],
@@ -14,7 +14,7 @@ module.exports = {
   themeConfig: {
     lastUpdated: '',
     nav: [
-      { text: "🍲 .🍲", link: "https://🍲 .🍲 " }
+      { text: "🍰 .🍰", link: "https://🍰 .🍰 " }
     ],
     sidebar: [
       {

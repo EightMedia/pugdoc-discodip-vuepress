@@ -1,1 +1,1 @@
-# 🍲 Pug-doc + Discodip + Vuepress
+# 🍰 Pug-doc + Discodip + Vuepress
