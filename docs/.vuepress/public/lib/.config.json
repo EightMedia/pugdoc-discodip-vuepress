@@ -1,0 +1,1 @@
+{"silent":false,"components":"docs/components.json","force":false,"output":"docs/.vuepress/public/lib/","headHtml":"","bodyHtml":"","prerender":{"port":3000,"path":"lib/","serveFolder":"docs/.vuepress/public"}}

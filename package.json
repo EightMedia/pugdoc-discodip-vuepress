@@ -1,0 +1,32 @@
+{
+  "name": "pugdoc-discodip-vuepress",
+  "version": "1.0.0",
+  "description": "recipe for a design system setup using pug-doc, discodip and vuepress",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "start-docs": "vuepress dev docs",
+    "pugdocdiscodip": "gulp pugdocdiscodip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EightMedia/pugdoc-discodip-vuepress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EightMedia/pugdoc-discodip-vuepress/issues"
+  },
+  "homepage": "https://github.com/EightMedia/pugdoc-discodip-vuepress#readme",
+  "devDependencies": {
+    "discodip": "^1.3.0",
+    "gulp": "^3.9.1",
+    "pug-doc": "^2.15.0",
+    "vuepress": "^0.14.4"
+  }
+}
